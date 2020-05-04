@@ -1,6 +1,6 @@
 # Lyrics OVH
 
-* [Documentation](https://lyricsovh.docs.apiary.io/#)
+* [Documentation](https://lyricsovh.docs.apiary.io/)
 
 # Stories
 
@@ -35,4 +35,3 @@ And I click on 'Search'
 I see a message saying that no lyrics were found
 And I see the form to search for lyrics pre-populated with the Artist Name and Song Name that I previously submitted.
 ```
-

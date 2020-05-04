@@ -18,7 +18,7 @@ And the headline itself is a link to the article.
 
 ```
 When I visit /news/search_topic
-And I fill in Topic with a string (e.g. Apple, or Nuggets, etc.)
+And I fill in Topic with a string (e.g. Apple, or Congress, etc.)
 And I click Search
 I am redirected to /news
 I see a list of the top headlines related to the topic I entered
@@ -75,5 +75,3 @@ And with each headline I see the author's name
 And a short description of the article
 And the headline itself is a link to the article.
 ```
-
-
