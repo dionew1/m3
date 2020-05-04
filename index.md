@@ -13,23 +13,23 @@ This last one is particularly important. In the past you may have gotten used to
 
 ### Level 1
 
-* [Cat Facts](stories/catfacts) No auth, single endpoint
-* [Lyrics](stories/lyrics) No auth, single endpoint
+* [Cat Facts](stories/catfacts)
+* [Lyrics](stories/lyrics)
 
 ### Level 2
 
-* [Chuck Norris Jokes](stories/chuck) No auth, search for word, search by category, pagination
-* [News](stories/news) API Key, search by topic, search by country, search by source, search from a list of categories
+* [Chuck Norris Jokes](stories/chuck)
+* [News](stories/news)
 
 ### Level 3
 
-* [Lyric Translations](stories/lyric_translation) Register for API key, method based endpoints, search by track name, search by artist name, identify languages and search based on available languages
-* [NYT Movie Reviews](stories/nyt_movies) API key, multiple query params, lots of APIs - have to dig for the right one, have to do interesting things to split the results up, search by title, search by decade
+* [Lyric Translations](stories/lyric_translation)
+* [NYT Movie Reviews](stories/nyt_movies)
 
 ### Level 4
 
-* [Number Quiz](stories/numbers) No API key, single endpoint, interesting query params, search by date, search by year, quiz
-* [Stock Information](stories/stocks) No Auth, number of endpoints, search by company symbol, able to search for multiple companies, need to split that info into multiple objects and then create a table with it
+* [Number Quiz](stories/numbers)
+* [Stock Information](stories/stocks)
 
 # Rubric
 
